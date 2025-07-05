@@ -8,4 +8,4 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" />
-
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
