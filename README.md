@@ -29,7 +29,6 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" width="40" alt="Android Studio" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
-  <img src="https://www.vectorlogo.zone/logos/apache_xampp/apache_xampp-icon.svg" width="40" alt="XAMPP" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" alt="Git" />
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" alt="SQL Developer" />
 </p>
