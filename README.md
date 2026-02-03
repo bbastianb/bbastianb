@@ -4,7 +4,7 @@
 
 - 🎓 Estudiante de 5to semestre en **Duoc UC**.
 - 💼 Buscando práctica profesional.
-- 💡 Enfocado en **Java**, **React** y **Bases de Datos**.
+- 💡 Entusiasta en **Full-Stack**.
 - 📍 Santiago, Chile.
 
 ## 🛠️ Mi Stack Tecnológico
