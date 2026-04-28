@@ -3,7 +3,6 @@
 ### Analista Programador 🌱
 
 - 🎓 Estudiante de 5to semestre en **Duoc UC**.
-- 💼 Buscando práctica profesional.
 - 💡 Entusiasta en **Full-Stack**.
 - 📍 Santiago, Chile.
 
